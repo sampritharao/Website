@@ -1,0 +1,16 @@
+header {
+          background-color: blue;
+          height: 30px;
+       }
+       
+       
+nav { background-color:grey;
+    }
+    
+div{
+    background-color: light blue;
+    }
+
+footer{ background-color: black;
+        color: white;
+      }
